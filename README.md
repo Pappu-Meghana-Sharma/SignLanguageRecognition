@@ -11,7 +11,7 @@ SignLanguageRecognition/                         \
 │ ├── model_v1.h5   \
 │ ├── model_v2.h5   \
 │ └── model_v3.h5   \
-├── README.md      \
+├── README.md       \
 
 ---
 
