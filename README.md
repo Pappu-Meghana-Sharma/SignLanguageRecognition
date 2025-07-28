@@ -48,7 +48,7 @@ Started with the same MobileNetV2 backbone but **unfroze** some deeper layers of
 ---
 
 ## To Do
-- Add real-time webcam input (maybe use MediaPipe later)
+- Add real-time webcam input (maybe using opencv)
 
 - Deploy with Streamlit or Flask
 
